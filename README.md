@@ -24,7 +24,7 @@ Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya bersama teman s
     - Membuat Splash Screen
     - Membuat Home Page
 
-## Cara-Instalasi-dan-Menjalankan-di-Local-Komputer
+## Cara Instalasi dan Menjalankandi Local Komputer
 1. Lakukan persiapan terlebih dahulu seperti instalasi framework flutter, dart SDK, Text Editor(VS Code, Atom, Android Studio), Java JDK dan yang lainnya, setelah semuanya ter-install silahkan buka `cmd` lalu ketikka `flutter doctor` untuk memastikan semuanya sudah sesuai, jika semuanya sesuai maka akan seperti pada gambar dibawah ini <br>
 <img src="Demo/cmd flutter doctor.png"/> <br> tolong hiraukan tanda silang tersebut karena tidak berpengaruh
 2. Lakukan Clone atau Download pada link disini(```https://github.com/Siswadi24/Coffe-App-UI-Dark.git)```
