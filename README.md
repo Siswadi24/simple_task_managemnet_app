@@ -3,7 +3,7 @@
 </h1>
 
 ## Konten
-- [Pengenalan](#Pengenalan)
+- [Pengenalan](#pengenalan)
 - [Installasi](#Cara-Instalasi-dan-Menjalankan-di-Local-Komputer)
 - [Hasil Gambar](#Hasil-Gambar)
 - [Fitur](#Fitur)
@@ -12,8 +12,17 @@
 - [Kontak](#Kontak)
 
 ## Pengenalan
-Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya bersama teman saya [Farhan Mirza Banazi](linkedin.com/in/farhan-mirza-banazi-510907236) untuk menyelesaikan mata kuliah pemrograman mobile, disini kami membagi tugas dan tanggungjawab yang harus dikerjakan oleh masing-masing orang, untuk tugasnya sebagai berikut[*kontak-ini*](#kontak)
-
+Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya bersama teman saya [Farhan-Mirza-Banazi](linkedin.com/in/farhan-mirza-banazi-510907236) untuk menyelesaikan mata kuliah pemrograman mobile, disini kami membagi tugas dan tanggungjawab yang harus dikerjakan oleh masing-masing orang, untuk tugasnya sebagai berikut:
+- Siswadi Perdana Putra
+  - Membuat UI
+  - Membuat Login Page
+  - Membuat Register Page
+  - Membuat Form Add Task
+  - Membuat Notifikasi Task dan halamannya
+- Farhan Mirza Banazi
+    - Membuat UI
+    - Membuat Splash Screen
+    - Membuat Home Page
 
 ## Cara Instalasi dan Menjalankan di Local Komputer
 1. Lakukan persiapan terlebih dahulu seperti instalasi framework flutter, dart SDK, Text Editor(VS Code, Atom, Android Studio), Java JDK dan yang lainnya, setelah semuanya ter-install silahkan buka `cmd` lalu ketikka `flutter doctor` untuk memastikan semuanya sudah sesuai, jika semuanya sesuai maka akan seperti pada gambar dibawah ini <br>
@@ -26,21 +35,34 @@ __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flu
 
 
 ## Hasil Gambar
-Splash Screen | Home Page |
-:----------:|:----------:|
-<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/HomePage.png"/>
+Splash Screen | Register Screen | Login Screen | Home Screen | Add Task Screen | Notifikasi Screen
+:----------:|:----------:| :----------:| :----------:| :----------:| :----------:
+<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/Register.png"/> | <img src="Demo/Aplikasi/Login.png"/> | <img src="Demo/Aplikasi/Home Page.png"/> | <img src="Demo/Aplikasi/Add Task.png"/> | <img src="Demo/Aplikasi/Notifikasi.png"/>
 
 ## Fitur
 - Splash Screen
-- Home Page
+- Register Screen
+- Login Screen
+- Home Screen
+- Add Task Screen
+- Notifikasi Screen
 
 ## Teknologi yang digunakan
 - Flutter
 - Dart
 
 ## Dependensi
-- [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)
-- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+- [get_storage](https://pub.dev/packages/get_storage)
+- [get](https://pub.dev/packages/get)
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
+- [flutter_native_timezone_updated_gradle](https://pub.dev/packages/flutter_native_timezone_updated_gradle)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [timezone](https://pub.dev/packages/timezone)
+- [intl](https://pub.dev/packages/intl)
+- [date_picker_timeline](https://pub.dev/packages/date_picker_timeline)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
 ## Kontak
 Jika anda memiliki pertanyaan atau memiliki permasalahan dalam hal menjalankan atau yang lainnya, silahkan hubungi saya melalui email di *danaperdanaputra32@gmail.com* atau di [LinkedIn](https://www.linkedin.com/in/siswadi-perdana-putra-0b670a22b/)
