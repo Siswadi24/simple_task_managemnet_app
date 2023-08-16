@@ -37,7 +37,7 @@ __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flu
 ## Hasil Gambar
 Splash Screen | Register Screen | Login Screen | Home Screen | Add Task Screen | Notifikasi Screen
 :----------:|:----------:| :----------:| :----------:| :----------:| :----------:
-<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/Register.png"/> | <img src="Demo/Aplikasi/Login.png"/> | <img src="Demo/Aplikasi/Home Page.png"/> | <img src="Demo/Aplikasi/Add Task.png"/> | <img src="Demo/Aplikasi/Notifikasi.JPG"/>
+<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/Register.png"/> | <img src="Demo/Aplikasi/Login.png"/> | <img src="Demo/Aplikasi/Home Page.png"/> | <img src="Demo/Aplikasi/Add Task.png"/> | <img src="Demo/Aplikasi/Notifikasi.jpg"/>
 ## Fitur
 - Splash Screen
 - Register Screen
