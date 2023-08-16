@@ -12,7 +12,7 @@
 - [Kontak](#Kontak)
 
 ## Pengenalan
-Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya bersama teman saya [Farhan-Mirza-Banazi](linkedin.com/in/farhan-mirza-banazi-510907236) untuk menyelesaikan mata kuliah pemrograman mobile, disini kami membagi tugas dan tanggungjawab yang harus dikerjakan oleh masing-masing orang, untuk tugasnya sebagai berikut:
+Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya bersama teman saya [Farhan](https://www.linkedin.com/in/farhan-mirza-banazi-510907236/) untuk menyelesaikan mata kuliah pemrograman mobile, disini kami membagi tugas dan tanggungjawab yang harus dikerjakan oleh masing-masing orang, untuk tugasnya sebagai berikut:
 - Siswadi Perdana Putra
   - Membuat UI
   - Membuat Login Page
@@ -37,8 +37,7 @@ __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flu
 ## Hasil Gambar
 Splash Screen | Register Screen | Login Screen | Home Screen | Add Task Screen | Notifikasi Screen
 :----------:|:----------:| :----------:| :----------:| :----------:| :----------:
-<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/Register.png"/> | <img src="Demo/Aplikasi/Login.png"/> | <img src="Demo/Aplikasi/Home Page.png"/> | <img src="Demo/Aplikasi/Add Task.png"/> | <img src="Demo/Aplikasi/Notifikasi.png"/>
-
+<img src="Demo/Aplikasi/SplashScreen.png"/> | <img src="Demo/Aplikasi/Register.png"/> | <img src="Demo/Aplikasi/Login.png"/> | <img src="Demo/Aplikasi/Home Page.png"/> | <img src="Demo/Aplikasi/Add Task.png"/> | <img src="Demo/Aplikasi/Notifikasi.JPG"/>
 ## Fitur
 - Splash Screen
 - Register Screen
