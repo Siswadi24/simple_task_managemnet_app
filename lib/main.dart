@@ -33,4 +33,3 @@ class MyApp extends StatelessWidget {
 }
 
 
-//Menit 23:40 Part 3
